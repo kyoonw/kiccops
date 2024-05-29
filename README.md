@@ -1,4 +1,4 @@
-# kiccop
+# kick-cops
 
 
 ### 프로젝트 구성
