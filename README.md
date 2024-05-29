@@ -1,6 +1,4 @@
-# kiccops
-
-
+# kiccop
 ##프로젝트 구성
 
 
