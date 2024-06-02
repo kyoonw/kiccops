@@ -105,7 +105,7 @@ def video_mode():
     start_point = (0, 525) # 주차금지 영역 
     end_point = (561, 700) 
     kicks = [] #킥보드 객체 배열 
-    model = YOLO('best_1.0.pt')
+    model = YOLO('best_2.0.pt')
     
     warnning = False 
     warn_key = False 
@@ -196,7 +196,7 @@ def detecting_mode(cap):
     start_point = (0, 120)
     end_point = (640, 360)
     kicks = [] 
-    model = YOLO('best_1.0.pt')
+    model = YOLO('best_2.0.pt')
     
     warnning = False 
     warn_key = False 
